@@ -1,0 +1,24 @@
+{
+    "name": "mussatto7/projeto",
+    "type": "project",
+    "require": {
+        "twig/twig": "3.x-dev",
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Itworks\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mussatto7",
+            "email": "83254538+mussatto7@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "scripts": {
+        "serve": "php -S 0.0.0.0:8081 -t public/"
+    }
+}
