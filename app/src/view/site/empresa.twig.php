@@ -13,7 +13,7 @@
     <h1>Endereço</h1>
     <br>
     <br>
-    <p>Rua xxx</p>
+    <p>Rua XXX</p>
     </div>
     <div class="col">
     <h1>Horários de Atendimento</h1>
