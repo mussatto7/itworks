@@ -1,4 +1,4 @@
-<<?php
+<?php
 
    /**
     * REDIRECIONA UM USUÁRIO PARA A URL INFORMADA E FINALIZA A APLICAÇÃO
